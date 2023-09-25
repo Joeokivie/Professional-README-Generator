@@ -30,3 +30,8 @@ To test this program, open the file in Visual Studio Code. Open the file by laun
 ## Questions
 For any questions, please contact [Joeokivie](https://github.com/Joeokivie) or email at josephokivie@hotmail.com.
   
+## Screenshot 
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/FlawlessJoey/Desktop/Screenshot%25202023-09-25%2520at%25201.19.58%2520PM.png?version%253D1695662494106)
+
+## Deployment 
+https://joeokivie.github.io/Professional-README-Generator/
